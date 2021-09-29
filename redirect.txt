@@ -1,0 +1,19 @@
+Ez egy proba string
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title></title>
+    </head>
+    <body>
+
+    </body>
+</html>
+Ez egy proba string
+alma
+eper
+kiwi
+korte
+malna
+mango
+narancs
